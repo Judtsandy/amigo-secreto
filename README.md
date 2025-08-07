@@ -19,8 +19,6 @@ Mostrar el nombre sorteado en pantalla.
  * JavaScript
 
 ### Estructura del proyecto
-bash
-Copiar código
 amigo-secreto/
 │
 ├── index.html        # Página principal
